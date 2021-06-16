@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Chicken name ="chicken">
+    <quantity>5</quantity>
+    <priceBuy>5</priceBuy> 
+  </Chicken>
+  
+  <Pork name ="pork">
+    <quantity>5</quantity>
+    <priceBuy>5</priceBuy>    
+  </Pork>
+  
+  <Beef name ="beef">
+    <quantity>5</quantity>
+    <priceBuy>5</priceBuy>    
+  </Beef>
+</root>
